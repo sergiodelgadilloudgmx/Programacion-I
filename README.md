@@ -25,4 +25,4 @@ Desarrollar las habilidades necesarias para diseñar, implementar, depurar y doc
 10. Depuración y pruebas de código.
 11. Control de versiones con Git y GitHub.
 ## Recursos del repositorio
-En este repositorio se publicarán ejemplos, prácticas, actividades y proyectos desarrollados durante el curso.
+En este repositorio se publicarán ejemplos, prácticas, actividades y proyectos desarrollados durante el curso. 
