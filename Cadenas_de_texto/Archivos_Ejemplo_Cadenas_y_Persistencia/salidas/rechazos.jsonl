@@ -1,0 +1,5 @@
+{"linea": 26, "motivo": "Línea vacía", "texto_original": ""}
+{"linea": 27, "motivo": "Correo inválido", "texto_original": "SOL-0025|sin_arroba.example.com|Acceso|No puedo entrar"}
+{"linea": 29, "motivo": "Categoría vacía", "texto_original": "SOL-0027|alumno27@cucea.udg.mx||Falta categoría"}
+{"linea": 30, "motivo": "Número incorrecto de campos", "texto_original": "SOL-0028|alumno28@cucea.udg.mx|Acceso"}
+{"linea": 31, "motivo": "ID duplicado", "texto_original": "SOL-0001|otro@cucea.udg.mx|Acceso|Solicitud repetida"}
